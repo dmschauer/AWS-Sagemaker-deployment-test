@@ -1,0 +1,5 @@
+Tutorial link:
+https://towardsdatascience.com/deploying-a-scikit-learn-model-on-aws-using-sklearn-estimators-local-jupyter-notebooks-and-the-d94396589498
+
+Though not explicitly mentioned in the text, this tutorial assumes that you have AWS CLI setup on the local machine you are working on.
+Keep this in mind if you run into ValueError: Must setup local AWS configuration with a region supported by SageMaker.
