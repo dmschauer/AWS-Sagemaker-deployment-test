@@ -5,8 +5,7 @@ Since scikit-learn models require less dependencies than e.g. TensorFlow models 
 To do so I used a tutorial.
 
 Though not explicitly mentioned in the text, this tutorial assumes that you have AWS CLI setup on your local machine.
-Keep this in mind if you run into 
-    ValueError: Must setup local AWS configuration with a region supported by SageMaker.
+Keep this in mind if you run into `ValueError: Must setup local AWS configuration with a region supported by SageMaker`.
 
 The steps termed '(optional)' in the tutorial aren't optional at all. Rather in the context of this tutorial they are crucial for things to function.
 
