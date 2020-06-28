@@ -1,7 +1,7 @@
 # AWS Sagemaker API test
 
 I did a simple test to see how deploying a machine learning model on AWS Sagemaker and thus turning it into an API works.
-Since scikit-learn models require less dependencies than e.g. TensorFlow models I went with them for this text.
+Since scikit-learn models require less dependencies than e.g. TensorFlow models I went with them for this test.
 To do so I used a tutorial.
 
 Though not explicitly mentioned in the text, this tutorial assumes that you have AWS CLI setup on your local machine.
